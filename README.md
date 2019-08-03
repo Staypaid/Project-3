@@ -2,7 +2,7 @@
 
 Project Manager: Amber Harper
 The rest:
-Jen Duey
+Jennifer Duey
 Devin Caraza
 Danniella Luna
 
@@ -19,6 +19,7 @@ Node
 Express
 Redux
 API
+BCrypt
 
 
 Future Development:
